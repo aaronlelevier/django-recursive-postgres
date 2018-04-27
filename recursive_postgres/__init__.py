@@ -8,3 +8,5 @@ __copyright__ = 'Copyright 2018 Aaron Lelevier'
 
 # Version synonym
 VERSION = __version__
+
+
